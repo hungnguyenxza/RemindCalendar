@@ -1,0 +1,16 @@
+bin/
+obj/
+*.user
+*.suo
+*.ide
+*.dgml
+*.editorconfig
+/packages
+/TestResults
+!NuGet.exe
+.vs/
+Pro.Database.RemoveBackground/Pro.Database.RemoveBackground.jfm
+Pro.Database.RemoveBackground/Pro.Database.RemoveBackground.dbmdl
+Pro.Database.RemoveBackground/Assemblies/HashProc.dll
+.vscode/launch.json
+.vscode/tasks.json
